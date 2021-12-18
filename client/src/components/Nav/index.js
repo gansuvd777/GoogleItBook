@@ -6,6 +6,7 @@ function Nav() {
         <nav className="navbar navbar-expand-lg navbar-primary">
             <a className="navbar-brand" href="/">
                 <h2 className="text-dark"> || Book Search ||</h2>
+                <p className="text-dark"> || Test Push ||</p>
             </a>
             <div id="navbarNav">
                 <ul className="navbar-nav">
